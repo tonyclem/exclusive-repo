@@ -6,6 +6,7 @@
 h1{
     text-decoration: underline;
     box-shadow: inset;
+    overflow: hidden;
 }
 
 .paragraph {
